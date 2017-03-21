@@ -1,0 +1,14 @@
+//Installation of sqlite3 on ubuntu
+sudo apt-get install sqlite3 libsqlite3-dev
+//Enabling PHP with sqlite3
+sudo apt-get install php5-sqlite3
+sudo apt-get install php7.0-sqlite3
+//Creating sqlite3 db
+sqlite3 hello.db
+//create table currencies
+run dbinit.php by running command --> php dbinit.php
+
+
+
+
+
